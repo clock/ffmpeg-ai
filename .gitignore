@@ -122,3 +122,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# enviorment variables
+.env
+
+# ffmpegai.bat
+ffmpegai.bat
+
+# any .mp4 files
+*.mp4
+
+# ffmpeg.exe
+ffmpeg.exe
